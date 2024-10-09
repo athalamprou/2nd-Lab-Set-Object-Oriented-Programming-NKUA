@@ -1,3 +1,5 @@
+NKUA's Introduction in Object Oriented Programming 2nd Exercises Pack in C++
+
 **Exercise 1**
 
 Write a C++ program that will read a student's grade and display the following:
