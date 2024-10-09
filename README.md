@@ -1,4 +1,4 @@
-NKUA's Introduction in Object Oriented Programming 2nd Exercises Pack in C++
+NKUA's Introduction to Object Oriented Programming 2nd Exercises Pack in C++
 
 **Exercise 1**
 
