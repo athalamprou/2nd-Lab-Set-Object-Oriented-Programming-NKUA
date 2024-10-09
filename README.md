@@ -39,7 +39,10 @@ A C++ function should be written with four formal parameters: a, b, perim, and a
 Next, a program should be written in C++ that will use the function above to calculate and display the perimeter and area of a rectangle. The program will first ask the user to input the dimensions (a, b) of the rectangle. Specifically, the program will perform the following:
 
 (a) It will display a message asking the user to input the dimensions of the rectangle and will read the input.
+
 (b) It will check if the dimensions entered by the user are positive numbers. If they are not, the program will display a corresponding error message and prompt the user to enter the dimensions again.
+
 (c) If the dimensions are positive, the program will call the function to calculate the perimeter and area and display the results on the screen.
+
 (d) The program will then ask the user if they want to continue, and depending on the answer, it will either repeat the above process or terminate its execution.
 
